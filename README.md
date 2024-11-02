@@ -4,3 +4,5 @@
 **Sales Analysis Dashboard:** Visualizes key metrics like sales by region, segment, payment mode, and category. It also includes YoY comparisons and a state-wise profit and sales distribution map.
 
 **Sales Forecasting Dashboard:** Utilizes historical sales data to project a 15-day sales forecast, helping anticipate future trends and guide strategic planning.
+
+**Dataset:** Contains fields like order date, region, segment, category, sales, and profit, allowing for detailed analysis and visualization.
