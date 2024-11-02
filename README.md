@@ -6,3 +6,7 @@
 **Sales Forecasting Dashboard:** Utilizes historical sales data to project a 15-day sales forecast, helping anticipate future trends and guide strategic planning.
 
 **Dataset:** Contains fields like order date, region, segment, category, sales, and profit, allowing for detailed analysis and visualization.
+
+**Key Insights:** Highlights include strong performance in the West region, popularity of Cash on Delivery, and Office Supplies as the top-selling category.
+
+
